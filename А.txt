@@ -2,4 +2,3 @@ Test file
 Line from develop branch
 Line from feature branch
 Test file
-
